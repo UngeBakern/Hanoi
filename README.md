@@ -1,5 +1,5 @@
 # Hanoi
-Pyret kode for hanoi tårnet
+#Pyret kode for hanoi tårnet
 
 put-image(
   
